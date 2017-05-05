@@ -1,10 +1,12 @@
 Shattered Pixel Dungeon
 =======================
 
-A Roguelike RPG, with randomly generated levels, items, enemies, and traps!
+This is just a copy of someone else's Roguelike RPG, with randomly generated levels, items, enemies, and traps!
 Based on the source code of Pixel Dungeon, by Watabou.
 
 Shattered Pixel Dungeon uses gradle and is most easily compiled/edited using Android Studio.
+
+Go find the original/better version at:
 
 Shattered Pixel Dungeon on Google Play:
 https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon
